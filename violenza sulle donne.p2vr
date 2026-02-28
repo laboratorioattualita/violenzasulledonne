@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig rev="21010" version="7.1.11">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+      <type>auto</type>
+      <filename>/private/var/folders/_f/7gwpwpqn61b2n5vkc6y1xbpr0000gp/T/TemporaryItems/com.apple.Photos.NSItemProvider/uuid=B76416C1-53D3-49CE-97C6-A4D33120F794&amp;code=001&amp;library=1&amp;type=1&amp;mode=1&amp;loc=true&amp;cap=true.jpeg/R0010127.jpeg</filename>
+      <videotype>equi</videotype>
+      <levelpitch>0</levelpitch>
+      <levelroll>0</levelroll>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+      <pannorth>0</pannorth>
+    </viewingparameter>
+    <userdata>
+      <customprops/>
+      <capturedatetime>2026-02-28T10:59:43</capturedatetime>
+      <latitude>45.438947</latitude>
+      <longitude>9.161278</longitude>
+      <altitude>113.5</altitude>
+      <datetime>28/02/26 10:59</datetime>
+      <tags>uuid=B76416C1-53D3-49CE-97C6-A4D33120F794code=001library=1type=1mode=1loc=truecap=truejpeg</tags>
+    </userdata>
+    <projectsettings>
+      <userdata>
+        <customprops/>
+      </userdata>
+      <mapgrid>
+        <anchor/>
+      </mapgrid>
+      <floorplangrid>
+        <anchor/>
+      </floorplangrid>
+      <translationsavailable>
+        <value id="Progetto">it-IT</value>
+      </translationsavailable>
+      <translationsnames>
+        <value id="Progetto">italiano</value>
+      </translationsnames>
+      <translationsenabled>
+        <value id="Progetto">true</value>
+      </translationsenabled>
+    </projectsettings>
+    <floorplans/>
+    <hotspots/>
+    <output>
+      <htmlcss>
+        <html>
+          <values/>
+          <enabled>1</enabled>
+          <filename>/Users/studente/Desktop/violenza sulle donne/index.html</filename>
+        </html>
+        <facequality/>
+        <transition>
+          <zoomfov>40</zoomfov>
+          <zoomafterinfov>140</zoomafterinfov>
+          <zoomafteroutfov>40</zoomafteroutfov>
+        </transition>
+        <autorotate/>
+        <soundstransition/>
+        <flyintransition/>
+        <hotspottext/>
+        <hotspotstyle/>
+        <webvr/>
+        <tilesize>1344</tilesize>
+        <filename>/Users/studente/Desktop/violenza sulle donne/pano.xml</filename>
+      </htmlcss>
+    </output>
+    <streetview/>
+    <streetviewproject/>
+    <ggloudproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+    </animation>
+  </panorama>
+</pano2vrconfig>
